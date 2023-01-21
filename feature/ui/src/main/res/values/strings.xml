@@ -1,0 +1,48 @@
+<resources>
+    <string name="today">Today</string>
+
+    <string name="celsius">°C</string>
+    <string name="fahrenheit">°F</string>
+    <string name="unknown">--</string>
+    <string name="kmh">km/h</string>
+    <string name="mph">mp/h</string>
+    <string name="pressure">hPa</string>
+    <string name="humidity">%</string>
+
+    <string name="retry">Try again</string>
+    <string name="online">Online</string>
+    <string name="offline">Offline</string>
+
+    <string name="error_gps_disabled">GPS needs to be enabled</string>
+    <string name="error_permission_denied">Permission to access the location needs to be granted</string>
+    <string name="error_no_internet">Not connected to internet</string>
+    <string name="error_unknown">Unexpected error: %s</string>
+
+    <string name="weather_clear_sky">Clear sky</string>
+    <string name="weather_mainly_clear">Mainly clear</string>
+    <string name="weather_partly_cloudy">Partly cloudy</string>
+    <string name="weather_overcast">Overcast</string>
+    <string name="weather_foggy">Foggy</string>
+    <string name="weather_depositing_rime_fog">Depositing rime fog</string>
+    <string name="weather_light_drizzle">Light drizzle</string>
+    <string name="weather_moderate_drizzle">Moderate drizzle</string>
+    <string name="weather_dense_drizzle">Dense drizzle</string>
+    <string name="weather_slight_freezing_drizzle">Slight freezing drizzle</string>
+    <string name="weather_dense_freezing_drizzle">Dense freezing drizzle</string>
+    <string name="weather_slight_rain">Slight rain</string>
+    <string name="weather_rainy">Rainy</string>
+    <string name="weather_heavy_rain">Heavy rain</string>
+    <string name="weather_heavy_freezing_rain">Heavy freezing rain </string>
+    <string name="weather_slight_snow_fall">Slight snow fall</string>
+    <string name="weather_moderate_snow_fall">Moderate snow fall</string>
+    <string name="weather_heavy_snow_fall">Heavy snow fall</string>
+    <string name="weather_snow_grains">Snow grains</string>
+    <string name="weather_slight_rain_showers">Slight rain showers</string>
+    <string name="weather_moderate_rain_showers">Moderate rain showers</string>
+    <string name="weather_violent_rain_showers">Violent rain showers</string>
+    <string name="weather_light_snow_showers">Light snow showers</string>
+    <string name="weather_heavy_snow_showers">Heavy snow showers</string>
+    <string name="weather_moderate_thunderstorm">Moderate thunderstorm</string>
+    <string name="weather_thunderstorm_with_slight_hail">Thunderstorm with slight hail</string>
+    <string name="weather_thunderstorm_with_heavy_hail">Thunderstorm with heavy hail</string>
+</resources>
