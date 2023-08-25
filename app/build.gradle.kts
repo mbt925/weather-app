@@ -7,12 +7,12 @@ plugins {
 
 android {
     namespace = "com.mbt925.weatherapp"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.mbt925.weatherapp"
         minSdk = 26
-        targetSdk = 33
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
 
