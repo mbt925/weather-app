@@ -61,5 +61,4 @@ val featureModule = module {
     }
 
     factory<WeatherModel> { WeatherContextImpl(weatherRepository = get()) }
-
 }
