@@ -33,6 +33,7 @@ dependencies {
     api(platform(libs.androidx.compose.bom))
     api(libs.androidx.compose.ui)
     api(libs.androidx.compose.material)
+    api(libs.androidx.compose.navigation)
     api(libs.koin.androidx.compose)
     implementation(libs.androidx.compose.material.windowSizeClass)
     api(libs.androidx.compose.uiToolingPreview)
